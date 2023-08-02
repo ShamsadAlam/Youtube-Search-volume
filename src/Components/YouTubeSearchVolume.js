@@ -41,7 +41,7 @@ const YouTubeSearchVolume = () => {
 
   return (
     <div className="container">
-      <h1 style={{ marginTop: "2%" }}>Keyword Search Volume</h1>
+      <h1 style={{ marginTop: "2%" }}>Youtube Keyword Search Volume</h1>
       <div className="inside">
         <input
           className="input"
